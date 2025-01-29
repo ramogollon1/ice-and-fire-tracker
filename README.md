@@ -17,6 +17,10 @@ This is a Next.js project to track characters from "A Song of Ice and Fire".
 
 This project uses the [An API of Ice and Fire](https://anapioficeandfire.com/api) to fetch data about characters and houses.
 
+## Demo
+
+![Preview](https://github.com/ramogollon1/ice-and-fire-tracker/blob/main/demo.png)
+
 ### Improvements:
 
 - **Test setup**: setup for unit, integration, e2e tests
